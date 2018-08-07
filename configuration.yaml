@@ -22,6 +22,7 @@ frontend:
 # Enables configuration UI
 config:
 
+
 http:
   # Secrets are defined in the file secrets.yaml
   # api_password: !secret http_password
