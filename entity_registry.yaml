@@ -1,0 +1,20 @@
+media_player.master_bedroom_speaker:
+  config_entry_id: 91bcb31d3cfc49678de6fdc4fd47accc
+  name:
+  platform: cast
+  unique_id: 66472104-32af-8525-8004-394136bb528d
+media_player.kids_tv:
+  config_entry_id:
+  name:
+  platform: cast
+  unique_id: baf70c7b-f39a-0ff0-1ab0-5bf71660b0f9
+media_player.master_bedroom_tv:
+  config_entry_id: 91bcb31d3cfc49678de6fdc4fd47accc
+  name:
+  platform: cast
+  unique_id: 64a039e6-9fba-1a3e-f9f2-89f9eae0a8db
+media_player.living_room_mini:
+  config_entry_id: 91bcb31d3cfc49678de6fdc4fd47accc
+  name:
+  platform: cast
+  unique_id: 5cfd2998-59ae-b4c9-007e-2cf46980f1c3

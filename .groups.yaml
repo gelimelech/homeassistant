@@ -1,0 +1,7 @@
+default_view:
+  view: yes
+  icon: mdi:home
+  entities:
+   - sun.sun
+   - binary_sensor.lr_bigdoor_33
+   - sensor.universal_temperature_sensor_1_89

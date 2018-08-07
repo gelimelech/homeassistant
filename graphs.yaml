@@ -1,0 +1,5 @@
+gr1:
+  name: Boiler Temprature Sensor
+  entities:
+    - sensor.universal_temperature_sensor_1_89
+  hours_to_show: 240
